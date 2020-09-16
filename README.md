@@ -1,4 +1,4 @@
-# internationalization
+# Django internationalization
 
 This is a easy sample using Django to do language internationalization. It shows switching languages between Chinese and English, but it's the same way to add more languages.
 
