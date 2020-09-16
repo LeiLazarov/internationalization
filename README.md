@@ -1,6 +1,6 @@
 # internationalization
 
-This is a easy sample for language internationalization. It shows switching languages between Chinese and English, but it's the same way to add more languages.
+This is a easy sample using Django to do language internationalization. It shows switching languages between Chinese and English, but it's the same way to add more languages.
 
 1.clone the project to your computer or IDE
 
