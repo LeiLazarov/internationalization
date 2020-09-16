@@ -18,6 +18,7 @@ This is a easy sample using Django to do language internationalization. It shows
 
 (FYI)
 6.use 'django-admin makemessages -l zh_Hans' to generate the .po file
+
 7.use 'django-admin compilemessages' to generate the .mo file
 
 index page with Chinese
