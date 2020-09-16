@@ -16,3 +16,4 @@ This is a easy sample for language internationalization. It shows switching lang
 
 5.access to the default page
 
+![image](https://github.com/LeiLazarov/images/blob/master/internationalization/Chinese.jpg)
