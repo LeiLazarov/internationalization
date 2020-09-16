@@ -61,7 +61,7 @@ msgstr "隐私"
 
 #: .\templates\myApp\index.html:95
 msgid "Terms & Conditions"
-msgstr ""
+msgstr "条款"
 
 #: .\venv\Lib\site-packages\django\contrib\messages\apps.py:7
 msgid "Messages"
